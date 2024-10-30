@@ -6,17 +6,18 @@ This project analyzes crop yield data in relation to environmental factors like 
 ## Installation
 
 1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/soil_erosion_analysis.git
-cd crop-yield-analysis
-
-Set up a Python environment:
 
 ```bash
-conda create --name crop-yield-env python=3.9
-conda activate crop-yield-env
+    git clone https://github.com/yourusername/soil_erosion_analysis.git
+    cd csol_erosion_analysis
 
-Install required packages:
+2. **Set up a Python environment:**
 
 ```bash
-pip install -r requirements.txt
+    conda create --name crop-yield-env python=3.9
+    conda activate crop-yield-env
+
+3. **Install required packages:**
+
+```bash
+    pip install -r requirements.txt
