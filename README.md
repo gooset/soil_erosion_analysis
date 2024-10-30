@@ -1,5 +1,3 @@
-markdown
-
 # Crop Yield Analysis Project
 
 ## Overview
